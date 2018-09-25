@@ -5,12 +5,17 @@ contributor:
     agent_name: Girard, Paul
     gutenberg_agent_id: '49378'
     url: http://www.gutenberg.org/2009/agents/49378
+covers:
+- cover_type: archival
+  image_path: 57424-h/images/cover.jpg
 creator:
   author:
     agent_name: Maccas, Léon
     gutenberg_agent_id: '49377'
     url: http://www.gutenberg.org/2009/agents/49377
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57424#German-Barbarism-A-Neutral-s-Indictment
 gutenberg_issued: '2018-06-30'
 gutenberg_type: Text
 identifiers:
